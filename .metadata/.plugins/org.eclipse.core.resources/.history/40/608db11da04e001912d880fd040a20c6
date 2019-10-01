@@ -1,0 +1,19 @@
+package com.lovecoding.enums;
+
+import java.io.InputStreamReader;
+import java.util.Scanner;
+
+public class App {
+
+	public static void main(String[] args) {
+		Scanner scr=new Scanner(System.in);
+		String clubType=scr.next();
+		testIsHolidayClub(clubType);
+	}
+
+	private static void testIsHolidayClub(String clubType) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

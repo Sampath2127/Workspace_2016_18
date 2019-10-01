@@ -1,0 +1,11 @@
+
+usquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(…ã¿ÖHö&RMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûŒãıH÷&RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(©€šÏHø&RMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şŸ•ÌÿÿÿÿÿHù&RMINORZ
+CODE_SMELL

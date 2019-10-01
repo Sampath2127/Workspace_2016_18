@@ -1,0 +1,9 @@
+
+d
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(İŞ²Hö'RMAJORZ
+CODE_SMELL
+Esquid:S2153"Remove the boxing to "Integer".(×ÿÆ©H÷'RMINORZBUG
+Jsquid:S2153"Remove the boxing to "Integer".(—Èÿ¿ıÿÿÿÿHø'RMINORZBUG
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÈ›²üÿÿÿÿHù'RMINORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+
+usquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÕÈµ¨8×‡¹•›-Hß)RMINORZ
+CODE_SMELL
+_squid:S1148""#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ôúÛ”›-Hº)RMINORZVULNERABILITY
+xsquid:S2147#"DCombine this catch with the one at line 33, which has the same body.(ï­£Ä8üÞ••›-H½)RMINORZ
+CODE_SMELL
+_squid:S1148%"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8üÞ••›-H¼)RMINORZVULNERABILITY
+qsquid:S1197"8Move the array designator from the variable to the type.(ïï·’ýÿÿÿÿ8¼Ý™•›-HÀ)RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹„‚’8ÎÀÅ•›-Hî)RMAJORZ
+CODE_SMELL

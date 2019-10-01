@@ -1,0 +1,13 @@
+
+…
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(é÷íH'RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(ÛºöşüÿÿÿÿH‘'RMAJORZ
+CODE_SMELL
+e
+squid:S106O"9Replace this use of System.out or System.err by a logger.(îë»ŸH’'RMAJORZ
+CODE_SMELL
+‡squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÄÀ€‚ùÿÿÿÿH“'RCRITICALZ
+CODE_SMELL
+tsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(» Ù£H”'RMAJORZ
+CODE_SMELL

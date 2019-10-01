@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_144"/>
+	<classpathentry kind="lib" path="C:/Users/c18477/Desktop/filessetup/Jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/c18477/Desktop/temp/libs/pdfbox-2.0.11.jar" sourcepath="C:/Users/c18477/AppData/Local/Temp/.org.sf.feeling.decompiler1544200350549/source/pdfbox-2.0.11-sources-1544201565162.jar"/>
+	<classpathentry kind="lib" path="C:/Users/c18477/Desktop/temp/libs/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/c18477/Desktop/temp/libs/fontbox-2.0.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

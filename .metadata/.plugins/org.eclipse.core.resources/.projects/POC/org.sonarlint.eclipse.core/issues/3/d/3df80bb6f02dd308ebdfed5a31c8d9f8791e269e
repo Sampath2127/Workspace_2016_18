@@ -1,0 +1,16 @@
+
+Rsquid:S2068" Remove this hard-coded password.(‹¯€áHê&RBLOCKERZVULNERABILITY
+psquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(‹¯€áHë&RBLOCKERZBUG
+tsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ë¼ËûÿÿÿÿHì&RBLOCKERZBUG
+wsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ã Ğ´Hí&RBLOCKERZBUG
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(á÷îƒHî&RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHï&RMAJORZ
+CODE_SMELL
+j
+squid:S106 "9Replace this use of System.out or System.err by a logger.(‹Ä€ûÿÿÿÿHğ&RMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“è‹¢øÿÿÿÿHñ&RMINORZ
+CODE_SMELL

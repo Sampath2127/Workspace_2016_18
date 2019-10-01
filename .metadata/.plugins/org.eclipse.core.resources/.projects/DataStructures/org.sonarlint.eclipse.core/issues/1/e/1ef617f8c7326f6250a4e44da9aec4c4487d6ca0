@@ -1,0 +1,12 @@
+
+ˆsquid:S2234
+"VParameters to move have the same names but not the same order as the method arguments.(ÄŒ ÚşÿÿÿÿH¾'RMAJORZ
+CODE_SMELL
+ˆsquid:S2234"VParameters to move have the same names but not the same order as the method arguments.(ê¸ïúÿÿÿÿH¿'RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯¶¿éHÀ'RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü¯‡‹HÁ'RMAJORZ
+CODE_SMELL

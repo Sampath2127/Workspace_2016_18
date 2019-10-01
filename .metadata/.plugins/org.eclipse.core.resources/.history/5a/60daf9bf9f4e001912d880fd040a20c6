@@ -1,0 +1,12 @@
+package com.lovecoding.enums;
+
+import java.util.Scanner;
+
+public class App {
+
+	public static void main(String[] args) {
+		Scanner clubType=new Scanner().next();
+		testIsHolidayClub(clubType);
+	}
+
+}

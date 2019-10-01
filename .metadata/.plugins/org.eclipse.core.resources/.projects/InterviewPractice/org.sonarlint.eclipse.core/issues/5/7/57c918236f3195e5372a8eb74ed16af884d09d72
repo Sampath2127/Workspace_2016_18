@@ -1,0 +1,16 @@
+
+Tsquid:S1068	"'Remove this unused "map" private field.(ÜæçÕHì'RMAJORZ
+CODE_SMELL
+Usquid:S1068
+"(Remove this unused "list" private field.(Ù×µÆHí'RMAJORZ
+CODE_SMELL
+bsquid:S1481"5Remove this unused "longestStringArr" local variable.(ßÄƒ‘Hî'RMINORZ
+CODE_SMELL
+Wsquid:S1172"*Remove this unused method parameter "str".(¥¤º…Hï'RMAJORZ
+CODE_SMELL
+Ssquid:S1168"&Return an empty array instead of null.(¥¹ïHğ'RMAJORZ
+CODE_SMELL
+qsquid:S1854"DRemove this useless assignment to local variable "longestStringArr".(ßÄƒ‘Hñ'RMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ùÀ¤ÿÿÿÿÿHò'RMINORZ
+CODE_SMELL

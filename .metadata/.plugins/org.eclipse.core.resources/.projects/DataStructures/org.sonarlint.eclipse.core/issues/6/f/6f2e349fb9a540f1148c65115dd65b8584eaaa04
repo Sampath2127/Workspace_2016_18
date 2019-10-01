@@ -1,0 +1,6 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(£¿¸®HÄ)RMAJORZ
+CODE_SMELL
+Äsquid:S1450"SRemove the "temp" field and declare it as a local variable in the relevant methods.(±íÜôHÅ)RMINORZ
+CODE_SMELL

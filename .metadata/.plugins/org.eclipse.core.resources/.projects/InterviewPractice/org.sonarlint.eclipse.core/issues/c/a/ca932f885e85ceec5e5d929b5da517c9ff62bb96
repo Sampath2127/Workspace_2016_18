@@ -1,0 +1,16 @@
+
+asquid:S1066"/Merge this if statement with the enclosing one.(ìˆˆƒúÿÿÿÿHú'RMAJORZ
+CODE_SMELL
+Œsquid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(¬…ºüÿÿÿÿHû'RCRITICALZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Şıò€Hü'RMAJORZ
+CODE_SMELL
+j
+squid:S106+"9Replace this use of System.out or System.err by a logger.(âæ©§øÿÿÿÿHı'RMAJORZ
+CODE_SMELL
+nsquid:S1126"AReplace this if-then-else statement by a single return statement.(µ²ğİHş'RMINORZ
+CODE_SMELL
+‡squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(†´î‘ıÿÿÿÿHÿ'RCRITICALZ
+CODE_SMELL
+‚squid:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿH€(RMAJORZ
+CODE_SMELL

@@ -1,0 +1,8 @@
+
+zsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(á‘ øÿÿÿÿHò&RMINORZ
+CODE_SMELL
+†squid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(›íìHó&RMINORZ
+CODE_SMELL
+j
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ÆÇ°ëûÿÿÿÿHô&RMAJORZ
+CODE_SMELL
